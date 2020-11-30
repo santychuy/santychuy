@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Santiago Carrasco</h1>
+<h3 align="center">A Passionate Frontend & Backend developer from Mexico 🇲🇽</h3>
 
-<!--
-**santychuy/santychuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=santychuy&label=Profile%20views&color=0e75b6&style=flat" alt="santychuy" /> </p>
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 I’m currently working on **GPass 🎫 (Event Management Platform)**
+
+- 📫 How to reach me **jsanticc@hotmail.com**
+
+</br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/santychuy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="santychuy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/santiagocarrascocampa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="santiagocarrascocampa" height="30" width="40" /></a>
+<a href="https://instagram.com/santychuy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="santychuy" height="30" width="40" /></a>
+<a href="https://dribbble.com/santychuy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="santychuy" height="30" width="40" /></a>
+</p>
+
+</br>
+
+<h3 align="left">Top Technologies:</h3>
+</br>
+<p align="left"><img src="https://img.shields.io/badge/%20-Javascript-F7DF1E?logo=javascript&style=for-the-badge&labelColor=474747" style="padding-right: 10px" /><img src="https://img.shields.io/badge/%20-typescript-007ACC?logo=typescript&style=for-the-badge&labelColor=474747" style="padding-right: 10px" /><img src="https://img.shields.io/badge/%20-react-61DAFB?logo=react&style=for-the-badge&labelColor=474747" style="padding-right: 10px" /><img src="https://img.shields.io/badge/%20-swift-FA7343?logo=swift&style=for-the-badge&labelColor=474747" style="padding-right: 10px" /><img src="https://img.shields.io/badge/%20-node.js-339933?logo=node.js&style=for-the-badge&labelColor=474747" style="padding-right: 10px" /><img src="https://img.shields.io/badge/%20-Graphql-E10098?logo=graphql&style=for-the-badge&labelColor=474747" style="padding-right: 10px" /></p>
+<!-- <p align="left"> <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p> -->
+
+<!-- </br>
+</br>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=santychuy&show_icons=true&locale=en&layout=compact" alt="santychuy" /></p> -->
