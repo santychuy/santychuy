@@ -5,8 +5,6 @@
 
 </br>
 
-- 📝 I’m currently working on **GPass 🎫 (Event Management Platform)**
-
 - 📫 How to reach me **jsanticc@hotmail.com**
 
 </br>
