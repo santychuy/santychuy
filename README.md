@@ -1,28 +1,57 @@
-<h1 align="center">Hi 👋, I'm Santiago Carrasco</h1>
-<h3 align="center">A Passionate Frontend & Backend developer from Mexico 🇲🇽</h3>
+<h1>Hi 👋, I'm Santiago Carrasco</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=santychuy&label=Profile%20views&color=0e75b6&style=flat" alt="santychuy" /> </p>
+<table align="right" width="130">
+ <tr><td><h3>🔎 &nbsp; Find Me At</h3></td></tr>
+ <tr><td><a href="https://www.linkedin.com/in/santiagocarrascocampa/"><img src="https://img.shields.io/badge/-LinkedIn-0a0a0a?&logo=linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/santiagocarrascocampa/" align="right"></a></td></tr>
+</table>
+
+<h3 align="left">Creative Frontend and Backend from Mexico 🇲🇽</h3>
+
+</br>
+</br>
+
+### About me
+
+...&nbsp; 🚧
 
 </br>
 
-- 📫 How to reach me **jsanticc@hotmail.com**
+### Currently Learning
 
-</br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/santychuy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="santychuy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/santiagocarrascocampa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="santiagocarrascocampa" height="30" width="40" /></a>
-<a href="https://instagram.com/santychuy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="santychuy" height="30" width="40" /></a>
-<a href="https://dribbble.com/santychuy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="santychuy" height="30" width="40" /></a>
-</p>
+![GraphQL](https://img.shields.io/badge/-GraphQL-0a0a0a?&logo=graphql)
+![Apollo](https://img.shields.io/badge/-Apollo_GraphQL-0a0a0a?&logo=apollographql)
 
 </br>
 
-<h3 align="left">Top Technologies:</h3>
-<p align="left"><img src="https://img.shields.io/badge/%20-Javascript-F7DF1E?logo=javascript&style=for-the-badge&labelColor=474747" style="padding: 0 10px 0 0" /><img src="https://img.shields.io/badge/%20-typescript-007ACC?logo=typescript&style=for-the-badge&labelColor=474747" style="padding: 0 10px 0 0" /><img src="https://img.shields.io/badge/%20-react-61DAFB?logo=react&style=for-the-badge&labelColor=474747" style="padding: 0 10px 0 0" /><img src="https://img.shields.io/badge/%20-swift-FA7343?logo=swift&style=for-the-badge&labelColor=474747" style="padding: 0 10px 0 0" /><img src="https://img.shields.io/badge/%20-node.js-339933?logo=node.js&style=for-the-badge&labelColor=474747" style="padding: 0 10px 0 0" /><img src="https://img.shields.io/badge/%20-Graphql-E10098?logo=graphql&style=for-the-badge&labelColor=474747" style="padding: 0 10px 0 0" /></p>
-<!-- <p align="left"> <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p> -->
+### Languages
 
-<!-- </br>
+![Typescript](https://img.shields.io/badge/-Typescript-0a0a0a?&logo=typescript)
+![Javascript](https://img.shields.io/badge/-Javascript-0a0a0a?&logo=javascript)
+![Swift](https://img.shields.io/badge/-Swift-0a0a0a?&logo=swift)
+
 </br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=santychuy&show_icons=true&locale=en&layout=compact" alt="santychuy" /></p> -->
+### Technologies & Tools
+
+![Node.js](https://img.shields.io/badge/-Node-0a0a0a?&logo=node.js)
+![React](https://img.shields.io/badge/-React-0a0a0a?&logo=react)
+![React Native](https://img.shields.io/badge/-React_Native-0a0a0a?&logo=react)
+![Jira](https://img.shields.io/badge/-Jira-0a0a0a?&logo=jira)
+![Figma](https://img.shields.io/badge/-Figma-0a0a0a?&logo=figma)
+![Eslint](https://img.shields.io/badge/-Eslint-0a0a0a?&logo=eslint&logoColor=482FBD)
+![Prettier](https://img.shields.io/badge/-Prettier-0a0a0a?&logo=prettier)
+
+</br>
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-0a0a0a?&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0a0a0a?&logo=postgresql)
+
+</br>
+
+---
+
+</br>
+
+<p align="right"><img src="https://komarev.com/ghpvc/?username=santychuy&label=Profile%20views&color=0e75b6&style=flat" alt="santychuy" /></p>
