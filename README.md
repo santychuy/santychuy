@@ -15,6 +15,7 @@
 
 </br>
 
+### 🕓&nbsp;This week I spent my time on:
 <!--START_SECTION:waka-->
 ```text
 TypeScript   10 hrs 16 mins  ██████████████████▓░░░░░░   75.19 % 
