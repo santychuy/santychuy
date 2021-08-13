@@ -1,17 +1,20 @@
-<h1>Hi 👋, I'm Santiago Carrasco</h1>
+<h1>Nice to meet you! 👋</h1>
 
 <table align="right" width="130" height="100%">
  <tr><td><h4>🔎 &nbsp; Find Me At</h4></td></tr>
  <tr><td><a href="https://www.linkedin.com/in/santiagocarrascocampa/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0a0a0a?&logo=linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/santiagocarrascocampa/" align="right" height="24"></a></td></tr>
 </table>
 
-<h3 align="left">Creative Frontend and Backend from Mexico 🇲🇽</h3>
+<h3 align="left">The "hacker" of the family 👾</h3>
 
 </br>
 
 ### About me
 
-...&nbsp; 🚧
+I’m a Software Developer, can handle with both Frontend and Backend (but my favorite is **Frontend** 🤤)\
+always learning new stuff and trying to applying it in my current workflow.
+
+**Happy to share my knowledge to the community and teammates 🗣**
 
 </br>
 
