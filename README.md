@@ -11,10 +11,21 @@
 
 ### About me
 
-I’m a Software Developer, can handle with both Frontend and Backend (but my favorite is **Frontend** 🤤)\
+I’m a Web Developer, can handle with both Frontend and Backend (but my favorite is **Frontend** 🤤)\
 always learning new stuff and trying to applying it in my current workflow.
 
 **Happy to share my knowledge to the community and teammates 🗣**
+
+- 💼 &nbsp;Currently working at [Lunna-Tech](https://github.com/luuna-tech) as **Frontend Developer**
+- 🖌 &nbsp;Able to do UI/UX stuff
+- 📚 &nbsp;Currently learning: &nbsp;![GraphQL](https://img.shields.io/badge/-GraphQL-0a0a0a?&logo=graphql)&nbsp;![Apollo](https://img.shields.io/badge/-Apollo_GraphQL-0a0a0a?&logo=apollographql)
+
+<details>
+<summary>Some other facts to know</summary>
+ 
+- 💬 &nbsp;Spaces > Tabs
+- 🃏 &nbsp;In my free time I play Poker
+</details>
 
 </br>
 
@@ -30,11 +41,6 @@ GraphQL      14 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 </br>
-
-### Currently Learning
-
-![GraphQL](https://img.shields.io/badge/-GraphQL-0a0a0a?&logo=graphql)
-![Apollo](https://img.shields.io/badge/-Apollo_GraphQL-0a0a0a?&logo=apollographql)
 
 ### Languages
 
