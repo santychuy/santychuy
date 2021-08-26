@@ -52,6 +52,7 @@ Other        22 mins         █░░░░░░░░░░░░░░░░
 
 ![Node.js](https://img.shields.io/badge/-Node-0a0a0a?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-0a0a0a?&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-0a0a0a?&logo=next.js)
 ![React Native](https://img.shields.io/badge/-React_Native-0a0a0a?&logo=react)
 ![Jira](https://img.shields.io/badge/-Jira-0a0a0a?&logo=jira)
 ![Figma](https://img.shields.io/badge/-Figma-0a0a0a?&logo=figma)
