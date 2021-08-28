@@ -51,6 +51,7 @@ Other        22 mins         █░░░░░░░░░░░░░░░░
 ### Technologies & Tools
 
 ![Node.js](https://img.shields.io/badge/-Node-0a0a0a?&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-0a0a0a?&logo=express)
 ![React](https://img.shields.io/badge/-React-0a0a0a?&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-0a0a0a?&logo=next.js)
 ![React Native](https://img.shields.io/badge/-React_Native-0a0a0a?&logo=react)
