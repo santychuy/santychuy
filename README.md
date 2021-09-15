@@ -18,7 +18,7 @@ always learning new stuff and trying to applying it in my current workflow.
 
 - 💼 &nbsp;Currently working at [Lunna-Tech](https://github.com/luuna-tech) as **Frontend Developer**
 - 🖌 &nbsp;Able to do UI/UX stuff
-- 📚 &nbsp;Currently learning: &nbsp;![GraphQL](https://img.shields.io/badge/-GraphQL-0a0a0a?&logo=graphql)&nbsp;![Apollo](https://img.shields.io/badge/-Apollo_GraphQL-0a0a0a?&logo=apollographql)&nbsp;![Docker](https://img.shields.io/badge/-Docker-0a0a0a?&logo=docker)&nbsp;![Python](https://img.shields.io/badge/-Python-0a0a0a?&logo=python)
+- 📚 &nbsp;Currently learning: &nbsp;![GraphQL](https://img.shields.io/badge/-GraphQL-0a0a0a?&logo=graphql)&nbsp;![Apollo](https://img.shields.io/badge/-Apollo_GraphQL-0a0a0a?&logo=apollographql)&nbsp;![Docker](https://img.shields.io/badge/-Docker-0a0a0a?&logo=docker)&nbsp;![AWS](https://img.shields.io/badge/-AWS-0a0a0a?&logo=AmazonAWS)&nbsp;![AWS Amplify](https://img.shields.io/badge/-AWS_Amplify-0a0a0a?&logo=AWSAmplify)
 
 <details>
 <summary>Some other facts to know</summary>
@@ -59,6 +59,7 @@ Markdown     9 mins          ░░░░░░░░░░░░░░░░░
 ![Figma](https://img.shields.io/badge/-Figma-0a0a0a?&logo=figma)
 ![Eslint](https://img.shields.io/badge/-Eslint-0a0a0a?&logo=eslint&logoColor=482FBD)
 ![Prettier](https://img.shields.io/badge/-Prettier-0a0a0a?&logo=prettier)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-0a0a0a?&logo=TailwindCSS)
 
 ### Databases
 
