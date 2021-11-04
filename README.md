@@ -23,7 +23,7 @@ always learning new stuff and trying to applying it in my current workflow.
 <details>
 <summary>Some other facts to know</summary>
  
-- 💬 &nbsp;Spaces > Tabs
+- 🥎 &nbsp;Love to see sports
 - 🃏 &nbsp;In my free time I play Poker
 </details>
 
