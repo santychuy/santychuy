@@ -18,7 +18,7 @@ always learning new stuff and trying to applying it in my current workflow.
 
 - 💼 &nbsp;Currently working at [Lunna-Tech](https://github.com/luuna-tech) as **Frontend Developer**
 - 🖌 &nbsp;Able to do UI/UX stuff
-- 📚 &nbsp;Currently learning: &nbsp;![GraphQL](https://img.shields.io/badge/-GraphQL-0a0a0a?&logo=graphql)&nbsp;![Apollo](https://img.shields.io/badge/-Apollo_GraphQL-0a0a0a?&logo=apollographql)&nbsp;![Docker](https://img.shields.io/badge/-Docker-0a0a0a?&logo=docker)&nbsp;![AWS](https://img.shields.io/badge/-AWS-0a0a0a?&logo=AmazonAWS)&nbsp;![AWS Amplify](https://img.shields.io/badge/-AWS_Amplify-0a0a0a?&logo=AWSAmplify)
+- 📚 &nbsp;Currently learning: &nbsp;![GraphQL](https://img.shields.io/badge/-GraphQL-0a0a0a?&logo=graphql)&nbsp;![Apollo](https://img.shields.io/badge/-Apollo_GraphQL-0a0a0a?&logo=apollographql)&nbsp;![Docker](https://img.shields.io/badge/-Docker-0a0a0a?&logo=docker)&nbsp;![AWS](https://img.shields.io/badge/-AWS-0a0a0a?&logo=AmazonAWS)&nbsp;
 
 <details>
 <summary>Some other facts to know</summary>
@@ -60,6 +60,8 @@ GraphQL      31 mins         ▓░░░░░░░░░░░░░░░░
 ![Eslint](https://img.shields.io/badge/-Eslint-0a0a0a?&logo=eslint&logoColor=482FBD)
 ![Prettier](https://img.shields.io/badge/-Prettier-0a0a0a?&logo=prettier)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-0a0a0a?&logo=TailwindCSS)
+![AWS Amplify](https://img.shields.io/badge/-AWS_Amplify-0a0a0a?&logo=AWSAmplify)
+![Firebase](https://img.shields.io/badge/-Firebase-0a0a0a?&logo=Firebase)
 
 ### Databases
 
