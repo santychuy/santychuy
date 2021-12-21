@@ -18,7 +18,7 @@ always learning new stuff and trying to applying it in my current workflow.
 
 - 💼 &nbsp;Currently working at [Lunna-Tech](https://github.com/luuna-tech) as **Frontend Developer**
 - 🖌 &nbsp;Able to do UI/UX stuff
-- 📚 &nbsp;Currently learning: &nbsp;![GraphQL](https://img.shields.io/badge/-GraphQL-0a0a0a?&logo=graphql)&nbsp;![Apollo](https://img.shields.io/badge/-Apollo_GraphQL-0a0a0a?&logo=apollographql)&nbsp;![Docker](https://img.shields.io/badge/-Docker-0a0a0a?&logo=docker)&nbsp;![AWS](https://img.shields.io/badge/-AWS-0a0a0a?&logo=AmazonAWS)&nbsp;
+- 📚 &nbsp;Currently learning: &nbsp;![GraphQL](https://img.shields.io/badge/-GraphQL-0a0a0a?&logo=graphql)&nbsp;![Apollo](https://img.shields.io/badge/-Apollo_GraphQL-0a0a0a?&logo=apollographql)&nbsp;![Docker](https://img.shields.io/badge/-Docker-0a0a0a?&logo=docker)&nbsp;![AWS](https://img.shields.io/badge/-AWS-0a0a0a?&logo=AmazonAWS)&nbsp;![NestJS](https://img.shields.io/badge/-NestJS-0a0a0a?&logo=NestJS)&nbsp;
 
 <details>
 <summary>Some other facts to know</summary>
