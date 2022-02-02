@@ -1,30 +1,29 @@
 <h1>Nice to meet you! 👋</h1>
 
 <table align="right" width="130" height="100%">
- <tr><td><h4>🔎 &nbsp; Find Me At</h4></td></tr>
+ <tr><td><h4>🔎 &nbsp; Find me at</h4></td></tr>
  <tr><td><a href="https://www.linkedin.com/in/santiagocarrascocampa/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0a0a0a?&logo=linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/santiagocarrascocampa/" align="right" height="24"></a></td></tr>
 </table>
 
 <h3 align="left">The "hacker" of the family 👾</h3>
 
-</br>
-
 ### About me
 
-I’m a Web Developer, can handle with both Frontend and Backend (but my favorite is **Frontend** 🤤)\
+I’m a Web Developer, can handle with both Frontend and Backend (my favorite: **Frontend** 🤤)\
 always learning new stuff and trying to applying it in my current workflow.
 
 **Happy to share my knowledge to the community and teammates 🗣**
 
 - 💼 &nbsp;Currently working at [Lunna-Tech](https://github.com/luuna-tech) as **Frontend Developer**
 - 🖌 &nbsp;Able to do UI/UX stuff
-- 📚 &nbsp;Currently learning: &nbsp;![GraphQL](https://img.shields.io/badge/-GraphQL-0a0a0a?&logo=graphql)&nbsp;![Apollo](https://img.shields.io/badge/-Apollo_GraphQL-0a0a0a?&logo=apollographql)&nbsp;![Docker](https://img.shields.io/badge/-Docker-0a0a0a?&logo=docker)&nbsp;![AWS](https://img.shields.io/badge/-AWS-0a0a0a?&logo=AmazonAWS)&nbsp;![NestJS](https://img.shields.io/badge/-NestJS-0a0a0a?&logo=NestJS)&nbsp;
+- 📚 &nbsp;Currently learning: &nbsp;![Docker](https://img.shields.io/badge/-Docker-0a0a0a?&logo=docker)&nbsp;![AWS](https://img.shields.io/badge/-AWS-0a0a0a?&logo=AmazonAWS)&nbsp;![NestJS](https://img.shields.io/badge/-NestJS-0a0a0a?&logo=NestJS)&nbsp;
 
 <details>
 <summary>Some other facts to know</summary>
  
 - 🥎 &nbsp;Love to see sports
 - 🃏 &nbsp;In my free time I play Poker
+- 💵 &nbsp;Learning and playing with crypto world and NFTs
 </details>
 
 </br>
