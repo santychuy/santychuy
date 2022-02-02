@@ -3,6 +3,8 @@
 <table align="right" width="130" height="100%">
  <tr><td><h4>🔎 &nbsp; Find me at</h4></td></tr>
  <tr><td><a href="https://www.linkedin.com/in/santiagocarrascocampa/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0a0a0a?&logo=linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/santiagocarrascocampa/" align="right" height="24"></a></td></tr>
+ <tr><td><a href="https://santychuy.github.io/resume-es/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Resume Spanish-0a0a0a?&logo=readthedocs&logoColor=8CA1AF&link=https://www.linkedin.com/in/santiagocarrascocampa/" align="right" height="24"></a></td></tr>
+ <tr><td><a href="https://santychuy.github.io/resume-en/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Resume English-0a0a0a?&logo=readthedocs&logoColor=8CA1AF&link=https://www.linkedin.com/in/santiagocarrascocampa/" align="right" height="24"></a></td></tr>
 </table>
 
 <h3 align="left">The "hacker" of the family 👾</h3>
