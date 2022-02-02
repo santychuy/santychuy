@@ -15,6 +15,7 @@ always learning new stuff and trying to applying it in my current workflow.
 **Happy to share my knowledge to the community and teammates 🗣**
 
 - 💼 &nbsp;Currently working at [Lunna-Tech](https://github.com/luuna-tech) as **Frontend Developer**
+- 🎫 &nbsp;Developing in free time: [GPass](https://www.gpass.mx)
 - 🖌 &nbsp;Able to do UI/UX stuff
 - 📚 &nbsp;Currently learning: &nbsp;![Docker](https://img.shields.io/badge/-Docker-0a0a0a?&logo=docker)&nbsp;![AWS](https://img.shields.io/badge/-AWS-0a0a0a?&logo=AmazonAWS)&nbsp;![NestJS](https://img.shields.io/badge/-NestJS-0a0a0a?&logo=NestJS)&nbsp;
 
