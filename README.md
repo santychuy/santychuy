@@ -1,4 +1,4 @@
-<h1>Nice to meet you! 👋</h1>
+<h1>Nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <table align="right" width="130" height="100%">
  <tr><td><h4>🔎 &nbsp; Find me at</h4></td></tr>
