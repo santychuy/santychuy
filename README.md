@@ -35,9 +35,8 @@ always learning new stuff and trying to applying it in my current workflow.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   14 hrs 38 mins  █████████████████████▓░░░   87.06 %
-Markdown     1 hr 43 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
-Other        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+TypeScript   10 hrs 15 mins  █████████████▓░░░░░░░░░░░   55.29 %
+Other        1 hr 57 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 %
 ```
 
 <!--END_SECTION:waka-->
