@@ -55,6 +55,8 @@ Other        3 hrs 58 mins   █████▒░░░░░░░░░░░
 ![Express](https://img.shields.io/badge/-Express-0a0a0a?&logo=express)
 ![React](https://img.shields.io/badge/-React-0a0a0a?&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-0a0a0a?&logo=next.js)
+![Jest](https://img.shields.io/badge/-Jest-0a0a0a?&logo=jest&logoColor=C63D14)
+![Testing Library](https://img.shields.io/badge/-Testing_Library-0a0a0a?&logo=TestingLibrary)
 ![React Native](https://img.shields.io/badge/-React_Native-0a0a0a?&logo=react)
 ![Jira](https://img.shields.io/badge/-Jira-0a0a0a?&logo=jira)
 ![Figma](https://img.shields.io/badge/-Figma-0a0a0a?&logo=figma)
