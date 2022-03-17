@@ -19,7 +19,7 @@ always learning new stuff and trying to applying it in my current workflow.
 - 💼 &nbsp;Currently working at [Lunna-Tech](https://github.com/luuna-tech) as **Frontend Developer**
 - 🎫 &nbsp;Developing in free time: [GPass](https://www.gpass.mx)
 - 🖌 &nbsp;Able to do UI/UX stuff
-- 📚 &nbsp;Currently learning: &nbsp;![Docker](https://img.shields.io/badge/-Docker-0a0a0a?&logo=docker)&nbsp;![AWS](https://img.shields.io/badge/-AWS-0a0a0a?&logo=AmazonAWS)&nbsp;![NestJS](https://img.shields.io/badge/-NestJS-0a0a0a?&logo=NestJS)&nbsp;
+- 📚 &nbsp;Currently learning: &nbsp;![Solidity](https://img.shields.io/badge/-Solidity-0a0a0a?&logo=solidity)&nbsp;
 
 <details>
 <summary>Some other facts to know</summary>
@@ -64,6 +64,7 @@ Other        3 hrs 58 mins   █████▒░░░░░░░░░░░
 ![Prettier](https://img.shields.io/badge/-Prettier-0a0a0a?&logo=prettier)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-0a0a0a?&logo=TailwindCSS)
 ![AWS Amplify](https://img.shields.io/badge/-AWS_Amplify-0a0a0a?&logo=AWSAmplify)
+![Docker](https://img.shields.io/badge/-Docker-0a0a0a?&logo=docker)
 ![Firebase](https://img.shields.io/badge/-Firebase-0a0a0a?&logo=Firebase)
 
 ### Databases
