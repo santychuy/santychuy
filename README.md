@@ -35,8 +35,9 @@ always learning new stuff and trying to applying it in my current workflow.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   6 hrs 45 mins   ████████████████████████░   96.56 %
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+TypeScript   3 hrs 58 mins   ██████████████████▒░░░░░░   73.56 %
+JSON         52 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.27 %
+Other        17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
 ```
 
 <!--END_SECTION:waka-->
