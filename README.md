@@ -19,7 +19,7 @@ always learning new stuff and trying to applying it in my current workflow.
 - 💼 &nbsp;Currently working at [Lunna-Tech](https://github.com/luuna-tech) as **Frontend Developer**
 - 🎫 &nbsp;Developing in free time: [GPass](https://www.gpass.mx)
 - 🖌 &nbsp;Able to do UI/UX stuff
-- 📚 &nbsp;Currently learning: &nbsp;![Solidity](https://img.shields.io/badge/-Solidity-0a0a0a?&logo=solidity)&nbsp;
+- 📚 &nbsp;Currently learning: &nbsp;![Solidity](https://img.shields.io/badge/-Solidity-0a0a0a?&logo=solidity)&nbsp;![Nestjs](https://img.shields.io/badge/-Nestjs-0a0a0a?&logo=nestjs)&nbsp;
 
 <details>
 <summary>Some other facts to know</summary>
