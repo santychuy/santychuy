@@ -35,9 +35,11 @@ always learning new stuff and trying to applying it in my current workflow.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   3 hrs 58 mins   ██████████████████▒░░░░░░   73.56 %
-JSON         52 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.27 %
-Other        17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+TypeScript   15 hrs 51 mins  ██████████████████████░░░   87.51 %
+JSON         53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+Solidity     41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Groovy       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
