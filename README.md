@@ -16,7 +16,7 @@ always learning new stuff and trying to applying it in my current workflow.
 
 **Happy to share my knowledge to the community and teammates 🗣**
 
-- 💼 &nbsp;Currently working at [Lunna-Tech](https://github.com/luuna-tech) as **Frontend Developer**
+- 💼 &nbsp;Currently working at [GBM](https://github.com/gbmcode) as **Mid. Frontend Engineer**
 - 🎫 &nbsp;Developing in free time: [GPass](https://www.gpass.mx)
 - 🖌 &nbsp;Able to do UI/UX stuff
 - 📚 &nbsp;Currently learning: &nbsp;![Solidity](https://img.shields.io/badge/-Solidity-0a0a0a?&logo=solidity)&nbsp;![Nestjs](https://img.shields.io/badge/-Nestjs-0a0a0a?&logo=nestjs)&nbsp;
