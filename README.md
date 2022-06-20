@@ -35,7 +35,11 @@ always learning new stuff and trying to applying it in my current workflow.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+YAML         3 mins          ██████████░░░░░░░░░░░░░░░   39.60 %
+TypeScript   2 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.28 %
+JSON         1 min           ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
+Bash         0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
+Other        0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
 ```
 
 <!--END_SECTION:waka-->
