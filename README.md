@@ -35,11 +35,9 @@ always learning new stuff and trying to applying it in my current workflow.
 <!--START_SECTION:waka-->
 
 ```text
-JSON         3 hrs 10 mins   ████████████▒░░░░░░░░░░░░   49.80 %
-TypeScript   1 hr 45 mins    ███████░░░░░░░░░░░░░░░░░░   27.53 %
-JavaScript   1 hr 12 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.98 %
-Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+TypeScript   7 hrs 58 mins   █████████████████▒░░░░░░░   68.86 %
+JSON         1 hr 27 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
+Other        1 hr 20 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
 ```
 
 <!--END_SECTION:waka-->
