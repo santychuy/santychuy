@@ -35,12 +35,11 @@ always learning new stuff and trying to applying it in my current workflow.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   6 hrs 59 mins   ███████████████▓░░░░░░░░░   62.90 %
-JavaScript   1 hr 31 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.76 %
-JSON         1 hr 20 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
-Rust         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-Markdown     20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-Other        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+TypeScript   5 hrs 15 mins   ████████████████████░░░░░   79.42 %
+Vue.js       36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
+JSON         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+JavaScript   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Other        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
 ```
 
 <!--END_SECTION:waka-->
