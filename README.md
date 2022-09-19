@@ -35,9 +35,10 @@ always learning new stuff and trying to applying it in my current workflow.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   6 hrs 22 mins   ████████████████████████▒   96.79 %
-JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript   12 hrs 1 min    ███████████████████████░░   91.55 %
+JSON         41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+Bash         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
 
 <!--END_SECTION:waka-->
