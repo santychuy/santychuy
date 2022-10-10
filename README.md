@@ -35,9 +35,10 @@ always learning new stuff and trying to applying it in my current workflow.
 <!--START_SECTION:waka-->
 
 ```text
-Rust         2 hrs 5 mins    ████████████▓░░░░░░░░░░░░   50.75 %
-TypeScript   1 hr 22 mins    ████████▒░░░░░░░░░░░░░░░░   33.44 %
-Other        25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
+Rust         54 mins         ███████████░░░░░░░░░░░░░░   43.43 %
+TypeScript   36 mins         ███████░░░░░░░░░░░░░░░░░░   28.55 %
+JSON         18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
+Other        16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
 ```
 
 <!--END_SECTION:waka-->
