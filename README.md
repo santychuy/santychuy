@@ -19,7 +19,7 @@ always learning new stuff and trying to applying it in my current workflow.
 - 💼 &nbsp;Currently working at [GBM](https://github.com/gbmcode) as **Mid. Frontend Engineer**
 - 🎫 &nbsp;Developing in free time: [GPass](https://www.gpass.mx)
 - 🖌 &nbsp;Able to do UI/UX stuff
-- 📚 &nbsp;Currently learning: &nbsp;![Solidity](https://img.shields.io/badge/-Solidity-0a0a0a?&logo=solidity)&nbsp;![Rust](https://img.shields.io/badge/-Rust-0a0a0a?&logo=rust)&nbsp;
+- 📚 &nbsp;Currently learning: &nbsp;![Solidity](https://img.shields.io/badge/-Solidity-0a0a0a?&logo=solidity)&nbsp;![Rust](https://img.shields.io/badge/-Rust-0a0a0a?&logo=rust)&nbsp;![AWS](https://img.shields.io/badge/-AWS-0a0a0a?&logo=amazon-aws)&nbsp;
 
 <details>
 <summary>Some other facts to know</summary>
