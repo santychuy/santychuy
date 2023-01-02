@@ -35,12 +35,11 @@ always learning new stuff and trying to applying it in my current workflow.
 <!--START_SECTION:waka-->
 
 ```text
-Python       4 hrs 33 mins   ████████████▓░░░░░░░░░░░░   51.17 %
-Docker       2 hrs 53 mins   ████████░░░░░░░░░░░░░░░░░   32.40 %
-JSON         26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-Markdown     20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-Makefile     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Python       2 hrs 10 mins   ███████████████████░░░░░░   76.44 %
+TypeScript   17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+JavaScript   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+Svelte       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
