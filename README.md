@@ -35,11 +35,10 @@ always learning new stuff and trying to applying it in my current workflow.
 <!--START_SECTION:waka-->
 
 ```text
-Python     24 mins         ██████████████░░░░░░░░░░░   56.12 %
-JSON       18 mins         ███████████░░░░░░░░░░░░░░   43.37 %
-Docker     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Rust         3 hrs 37 mins   ████████████████▒░░░░░░░░   64.76 %
+TypeScript   1 hr 19 mins    ██████░░░░░░░░░░░░░░░░░░░   23.74 %
+JSON         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
 ```
 
 <!--END_SECTION:waka-->
