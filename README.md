@@ -35,12 +35,12 @@ always learning new stuff and trying to applying it in my current workflow.
 <!--START_SECTION:waka-->
 
 ```text
-Python       6 hrs 23 mins   ██████████████████▒░░░░░░   73.50 %
-Rust         1 hr 8 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 %
-YAML         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-TOML         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-JavaScript   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-TypeScript   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Python       1 hr 42 mins    █████████████▓░░░░░░░░░░░   54.91 %
+TypeScript   50 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.13 %
+Bash         18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+JavaScript   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+JSON         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
