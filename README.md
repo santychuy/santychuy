@@ -3,8 +3,6 @@
 <table align="right" width="130" height="100%">
  <tr><td><h4>🔎 &nbsp; Find me at</h4></td></tr>
  <tr><td><a href="https://www.linkedin.com/in/santiagocarrascocampa/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0a0a0a?&logo=linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/santiagocarrascocampa/" align="right" height="24"></a></td></tr>
- <tr><td><a href="https://santychuy.github.io/resume-es/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Resume Spanish-0a0a0a?&logo=readthedocs&logoColor=8CA1AF&link=https://www.linkedin.com/in/santiagocarrascocampa/" align="right" height="24"></a></td></tr>
- <tr><td><a href="https://santychuy.github.io/resume-en/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Resume English-0a0a0a?&logo=readthedocs&logoColor=8CA1AF&link=https://www.linkedin.com/in/santiagocarrascocampa/" align="right" height="24"></a></td></tr>
 </table>
 
 <h3 align="left">The "hacker" of the family 👾</h3>
@@ -16,7 +14,6 @@ always learning new stuff and trying to applying it in my current workflow.
 
 **Happy to share my knowledge to the community and teammates 🗣**
 
-- 💼 &nbsp;Currently working at [GBM](https://github.com/gbmcode) as **Mid. Frontend Engineer**
 - 🎫 &nbsp;Developing in free time: [GPass](https://www.gpass.mx)
 - 🖌 &nbsp;Able to do UI/UX stuff
 - 📚 &nbsp;Currently learning: &nbsp;![Python](https://img.shields.io/badge/-Python-0a0a0a?&logo=python)&nbsp;![AWS](https://img.shields.io/badge/-AWS-0a0a0a?&logo=amazon-aws)&nbsp;![SASS](https://img.shields.io/badge/-SASS-0a0a0a?&logo=sass)&nbsp;
@@ -24,9 +21,9 @@ always learning new stuff and trying to applying it in my current workflow.
 <details>
 <summary>Some other facts to know</summary>
  
-- 🥎 &nbsp;Love to see sports
+- 🥎 &nbsp;Love sports
 - 🃏 &nbsp;In my free time I play Poker
-- 💵 &nbsp;Learning and playing with crypto world and NFTs
+- 💵 &nbsp;Learning crypto & NFT stuff
 </details>
 
 </br>
