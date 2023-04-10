@@ -32,14 +32,12 @@ always learning new stuff and trying to applying it in my current workflow.
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 March 2023 - To: 02 April 2023
+From: 02 April 2023 - To: 09 April 2023
 
-TypeScript   6 hrs 37 mins   █████████████░░░░░░░░░░░░   51.72 %
-SCSS         4 hrs 40 mins   █████████░░░░░░░░░░░░░░░░   36.44 %
-JSON         32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-YAML         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-Python       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+SCSS         26 mins         ███████████▒░░░░░░░░░░░░░   45.59 %
+TypeScript   23 mins         ██████████░░░░░░░░░░░░░░░   40.48 %
+JavaScript   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
+Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
 ```
 
 <!--END_SECTION:waka-->
