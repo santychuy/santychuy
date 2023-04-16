@@ -14,7 +14,6 @@ always learning new stuff and trying to applying it in my current workflow.
 
 **Happy to share my knowledge to the community and teammates 🗣**
 
-- 🎫 &nbsp;Developing in free time: [GPass](https://www.gpass.mx)
 - 🖌 &nbsp;Able to do UI/UX stuff
 - 📚 &nbsp;Currently learning: &nbsp;![Python](https://img.shields.io/badge/-Python-0a0a0a?&logo=python)&nbsp;![AWS](https://img.shields.io/badge/-AWS-0a0a0a?&logo=amazon-aws)&nbsp;![SASS](https://img.shields.io/badge/-SASS-0a0a0a?&logo=sass)&nbsp;
 
@@ -48,22 +47,26 @@ Other        1 min           ▓░░░░░░░░░░░░░░░░
 
 ![Typescript](https://img.shields.io/badge/-Typescript-0a0a0a?&logo=typescript)
 ![Javascript](https://img.shields.io/badge/-Javascript-0a0a0a?&logo=javascript)
+![Solidity](https://img.shields.io/badge/-Solidity-0a0a0a?&logo=solidity)
 ![Swift](https://img.shields.io/badge/-Swift-0a0a0a?&logo=swift)
 
 ### Technologies & Tools
 
-![Node.js](https://img.shields.io/badge/-Node-0a0a0a?&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-0a0a0a?&logo=express)
 ![React](https://img.shields.io/badge/-React-0a0a0a?&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-0a0a0a?&logo=next.js)
 ![Jest](https://img.shields.io/badge/-Jest-0a0a0a?&logo=jest&logoColor=C63D14)
 ![Testing Library](https://img.shields.io/badge/-Testing_Library-0a0a0a?&logo=TestingLibrary)
 ![React Native](https://img.shields.io/badge/-React_Native-0a0a0a?&logo=react)
-![Jira](https://img.shields.io/badge/-Jira-0a0a0a?&logo=jira)
+![React-Query](https://img.shields.io/badge/-React_Query-0a0a0a?&logo=ReactQuery)
+![React-Hook-Form](https://img.shields.io/badge/-React_Hook_Form-0a0a0a?&logo=ReactHookForm)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-0a0a0a?&logo=TailwindCSS)
+![Styled-components](https://img.shields.io/badge/-Styled_Components-0a0a0a?&logo=StyledComponents)
+![Web3.js](https://img.shields.io/badge/-Web3.js-0a0a0a?&logo=Web3.js)
+![Node.js](https://img.shields.io/badge/-Node-0a0a0a?&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-0a0a0a?&logo=express)
 ![Figma](https://img.shields.io/badge/-Figma-0a0a0a?&logo=figma)
 ![Eslint](https://img.shields.io/badge/-Eslint-0a0a0a?&logo=eslint&logoColor=482FBD)
 ![Prettier](https://img.shields.io/badge/-Prettier-0a0a0a?&logo=prettier)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-0a0a0a?&logo=TailwindCSS)
 ![AWS Amplify](https://img.shields.io/badge/-AWS_Amplify-0a0a0a?&logo=AWSAmplify)
 ![Docker](https://img.shields.io/badge/-Docker-0a0a0a?&logo=docker)
 ![Firebase](https://img.shields.io/badge/-Firebase-0a0a0a?&logo=Firebase)
