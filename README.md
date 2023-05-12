@@ -15,7 +15,7 @@ always learning new stuff and trying to applying it in my current workflow.
 **Happy to share my knowledge to the community and teammates 🗣**
 
 - 🖌 &nbsp;Able to do UI/UX stuff
-- 📚 &nbsp;Currently learning: &nbsp;![Python](https://img.shields.io/badge/-Python-0a0a0a?&logo=python)&nbsp;![AWS](https://img.shields.io/badge/-AWS-0a0a0a?&logo=amazon-aws)&nbsp;![SASS](https://img.shields.io/badge/-SASS-0a0a0a?&logo=sass)&nbsp;
+- 📚 &nbsp;Currently learning: &nbsp;![AWS](https://img.shields.io/badge/-AWS-0a0a0a?&logo=amazon-aws)&nbsp;![SASS](https://img.shields.io/badge/-SASS-0a0a0a?&logo=sass)&nbsp;
 
 <details>
 <summary>Some other facts to know</summary>
