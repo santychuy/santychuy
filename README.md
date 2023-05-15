@@ -31,18 +31,13 @@ always learning new stuff and trying to applying it in my current workflow.
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 April 2023 - To: 07 May 2023
+From: 07 May 2023 - To: 14 May 2023
 
-TypeScript   5 hrs 15 mins   █████████████▓░░░░░░░░░░░   54.70 %
-SCSS         2 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.93 %
-Other        1 hr 5 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
-JSON         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-Docker       20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-YAML         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-TSConfig     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript   30 mins         █████████████░░░░░░░░░░░░   52.14 %
+TypeScript   17 mins         ███████▓░░░░░░░░░░░░░░░░░   30.68 %
+JSON         5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
+Bash         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+SCSS         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
 ```
 
 <!--END_SECTION:waka-->
