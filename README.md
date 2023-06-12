@@ -31,14 +31,16 @@ always learning new stuff and trying to applying it in my current workflow.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2023 - To: 04 June 2023
+From: 04 June 2023 - To: 11 June 2023
 
-TypeScript   2 hrs 50 mins   ████████████████▒░░░░░░░░   65.92 %
-YAML         50 mins         █████░░░░░░░░░░░░░░░░░░░░   19.62 %
-JSON         18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
-Other        18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+TypeScript   7 hrs 58 mins   ███████████████░░░░░░░░░░   60.17 %
+JavaScript   2 hrs 33 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.23 %
+JSON         1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+CSS          50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+SCSS         37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+Markdown     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
