@@ -31,16 +31,13 @@ always learning new stuff and trying to applying it in my current workflow.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2023 - To: 11 June 2023
+From: 11 June 2023 - To: 18 June 2023
 
-TypeScript   7 hrs 58 mins   ███████████████░░░░░░░░░░   60.17 %
-JavaScript   2 hrs 33 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.23 %
-JSON         1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-CSS          50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-SCSS         37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-Markdown     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+JavaScript   2 hrs 9 mins    ████████████▒░░░░░░░░░░░░   48.67 %
+TypeScript   1 hr 57 mins    ███████████░░░░░░░░░░░░░░   44.25 %
+CSS          8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+JSON         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
