@@ -31,18 +31,18 @@ always learning new stuff and trying to applying it in my current workflow.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 July 2023 - To: 30 July 2023
+From: 30 July 2023 - To: 06 August 2023
 
-TypeScript   10 hrs 8 mins   ██████████████████████░░░   88.24 %
-JSON         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-YAML         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-CSS          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-SCSS         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-TSConfig     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TypeScript   6 hrs 47 mins   █████████████████████░░░░   83.85 %
+YAML         32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+HTML         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+JSON         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Less         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
