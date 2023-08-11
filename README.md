@@ -5,24 +5,21 @@
  <tr><td><a href="https://www.linkedin.com/in/santiagocarrascocampa/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0a0a0a?&logo=linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/santiagocarrascocampa/" align="right" height="24"></a></td></tr>
 </table>
 
-<h3 align="left">The "hacker" of the family 👾</h3>
-
 ### About me
 
-I’m a Web Developer, can handle both Frontend and Backend (my favorite: **Frontend** 🤤)\
-always learning new stuff and trying to applying it in my current workflow.
+I'm a passionate Web Developer with expertise in both Frontend and Backend realms, though my heart truly beats for Frontend development 🖌️.
+I'm on a perpetual journey of learning, constantly integrating newfound knowledge into my current workflow to enhance user experiences.
 
-**Happy to share my knowledge to the community and teammates 🗣**
+**Happy to share my knowledge with the community and teammates 🗣**
 
 - 🖌 &nbsp;Able to do UI/UX stuff
-- 📚 &nbsp;Currently learning: &nbsp;![AWS](https://img.shields.io/badge/-AWS-0a0a0a?&logo=amazon-aws)&nbsp;![SASS](https://img.shields.io/badge/-SASS-0a0a0a?&logo=sass)&nbsp;
+- 📚 &nbsp;Currently learning: &nbsp;![Playwright](https://img.shields.io/badge/-Playwright-0a0a0a?&logo=playwright)&nbsp;
 
 <details>
 <summary>Some other facts to know</summary>
  
 - 🥎 &nbsp;Love sports
-- 🃏 &nbsp;In my free time I play Poker
-- 💵 &nbsp;Learning crypto & NFT stuff
+- 💵 &nbsp;Learning finance and crypto
 </details>
 
 </br>
@@ -65,6 +62,7 @@ Less         0 secs          ░░░░░░░░░░░░░░░░░
 ![React Native](https://img.shields.io/badge/-React_Native-0a0a0a?&logo=react)
 ![React-Query](https://img.shields.io/badge/-React_Query-0a0a0a?&logo=ReactQuery)
 ![React-Hook-Form](https://img.shields.io/badge/-React_Hook_Form-0a0a0a?&logo=ReactHookForm)
+![SASS](https://img.shields.io/badge/-SASS-0a0a0a?&logo=sass)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-0a0a0a?&logo=TailwindCSS)
 ![Styled-components](https://img.shields.io/badge/-Styled_Components-0a0a0a?&logo=StyledComponents)
 ![Web3.js](https://img.shields.io/badge/-Web3.js-0a0a0a?&logo=Web3.js)
