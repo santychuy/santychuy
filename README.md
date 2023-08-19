@@ -13,7 +13,7 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 **Happy to share my knowledge with the community and teammates 🗣**
 
 - 🖌 &nbsp;Able to do UI/UX stuff
-- 📚 &nbsp;Currently learning: &nbsp;![Playwright](https://img.shields.io/badge/-Playwright-0a0a0a?&logo=playwright)&nbsp;
+- 📚 &nbsp;Currently learning: &nbsp;![Playwright](https://img.shields.io/badge/-Playwright-0a0a0a?&logo=playwright)&nbsp;![Astro](https://img.shields.io/badge/-Astro-0a0a0a?&logo=astro)&nbsp;
 
 <details>
 <summary>Some other facts to know</summary>
