@@ -28,18 +28,18 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2023 - To: 13 August 2023
+From: 13 August 2023 - To: 20 August 2023
 
-TypeScript   6 hrs 38 mins   █████████████████░░░░░░░░   67.93 %
-JSON         1 hr 25 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.61 %
-YAML         48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
-Other        25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
-JavaScript   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-TSConfig     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-SCSS         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-HTML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+TypeScript   3 hrs 30 mins   █████████████▓░░░░░░░░░░░   54.50 %
+JSON         1 hr 10 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.19 %
+SCSS         27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+JavaScript   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+Python       13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+HTML         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Markdown     11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+XML          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
 <!--END_SECTION:waka-->
