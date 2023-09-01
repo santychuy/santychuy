@@ -13,8 +13,7 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 **Happy to share my knowledge with the community and teammates 🗣**
 
 - 🖌 &nbsp;Able to do UI/UX stuff
-- 📚 &nbsp;Currently learning: &nbsp;![Playwright](https://img.shields.io/badge/-Playwright-0a0a0a?&logo=playwright)&nbsp;![Astro](https://img.shields.io/badge/-Astro-0a0a0a?&logo=astro)&nbsp;![Cloudflare](https://img.shields.io/badge/-Cloudflare-0a0a0a?&logo=cloudflare)&nbsp;
-
+- 📚 &nbsp;Currently learning: &nbsp;![Astro](https://img.shields.io/badge/-Astro-0a0a0a?&logo=astro)&nbsp;![Cloudflare](https://img.shields.io/badge/-Cloudflare-0a0a0a?&logo=cloudflare)&nbsp;
 <details>
 <summary>Some other facts to know</summary>
  
@@ -22,8 +21,9 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 - 💵 &nbsp;Learning finance and crypto
 </details>
 
-</br>
-
+<details>
+<summary>Extra information</summary>
+ 
 ### 🕓&nbsp;This week I spent my time on:
 <!--START_SECTION:waka-->
 
@@ -74,6 +74,7 @@ Objective-C   0 secs          ░░░░░░░░░░░░░░░░�
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0a0a0a?&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0a0a0a?&logo=postgresql)
+</details>
 
 ---
 
