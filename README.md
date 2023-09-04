@@ -28,13 +28,11 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2023 - To: 27 August 2023
+From: 27 August 2023 - To: 03 September 2023
 
-TypeScript    4 hrs 27 mins   ██████████████████▒░░░░░░   73.35 %
-YAML          1 hr 12 mins    █████░░░░░░░░░░░░░░░░░░░░   19.84 %
-JSON          15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
-Markdown      9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TypeScript   2 hrs 53 mins   ████████████████████████░   95.75 %
+JavaScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
