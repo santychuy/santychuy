@@ -28,12 +28,18 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2023 - To: 17 September 2023
+From: 17 September 2023 - To: 24 September 2023
 
-TypeScript   10 hrs 35 mins  ████████████████████████▒   97.32 %
-SCSS         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-Ezhil        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript     7 hrs 26 mins   ██████████████░░░░░░░░░░░   56.13 %
+JavaScript     1 hr 22 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
+JSON           1 hr 17 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
+CSS            52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+Astro          49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+ActionScript   28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+SCSS           26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+Ezhil          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Other          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+TSConfig       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
