@@ -28,18 +28,10 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2023 - To: 12 November 2023
+From: 12 November 2023 - To: 19 November 2023
 
-TypeScript   8 hrs 16 mins   ███████████████░░░░░░░░░░   60.06 %
-Astro        2 hrs 4 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.01 %
-YAML         1 hr 24 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
-SCSS         1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-Other        23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-JSON         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-TOML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+TypeScript   1 hr 9 mins     ██████████████████▒░░░░░░   72.85 %
+SCSS         25 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.15 %
 ```
 
 <!--END_SECTION:waka-->
