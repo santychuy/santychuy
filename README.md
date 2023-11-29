@@ -14,12 +14,6 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 
 - 🖌 &nbsp;Able to do UI/UX stuff
 - 📚 &nbsp;Currently learning: &nbsp;![Astro](https://img.shields.io/badge/-Astro-0a0a0a?&logo=astro)&nbsp;![Cloudflare](https://img.shields.io/badge/-Cloudflare-0a0a0a?&logo=cloudflare)&nbsp;
-<details>
-<summary>Some other facts to know</summary>
- 
-- 🥎 &nbsp;Love sports
-- 💵 &nbsp;Learning finance and crypto
-</details>
 
 <details>
 <summary>Extra information</summary>
