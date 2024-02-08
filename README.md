@@ -13,7 +13,7 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 **Happy to share my knowledge with the community and teammates 🗣**
 
 - 🖌 &nbsp;Able to do UI/UX stuff
-- 📚 &nbsp;Currently learning: &nbsp;![Astro](https://img.shields.io/badge/-Astro-0a0a0a?&logo=astro)&nbsp;![Cloudflare](https://img.shields.io/badge/-Cloudflare-0a0a0a?&logo=cloudflare)&nbsp;
+- 📚 &nbsp;Currently learning: &nbsp;![Astro](https://img.shields.io/badge/-Astro-0a0a0a?&logo=astro)&nbsp;![Cloudflare](https://img.shields.io/badge/-Cloudflare-0a0a0a?&logo=cloudflare)&nbsp;![HTMX](https://img.shields.io/badge/-HTMX-0a0a0a?&logo=htmx)&nbsp;
 
 <details>
 <summary>Extra information</summary>
