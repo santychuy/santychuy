@@ -22,13 +22,10 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 March 2024 - To: 24 March 2024
+From: 24 March 2024 - To: 31 March 2024
 
-Astro         2 hrs 9 mins    ██████████████░░░░░░░░░░░   56.49 %
-Markdown      1 hr 1 min      ██████▓░░░░░░░░░░░░░░░░░░   26.68 %
-CSS           27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
-Image (svg)   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-TypeScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+TypeScript   20 mins         ███████████████████▒░░░░░   76.85 %
+Astro        6 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.15 %
 ```
 
 <!--END_SECTION:waka-->
