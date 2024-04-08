@@ -22,10 +22,11 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2024 - To: 31 March 2024
+From: 31 March 2024 - To: 07 April 2024
 
-TypeScript   20 mins         ███████████████████▒░░░░░   76.85 %
-Astro        6 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.15 %
+Astro        41 mins         ████████████████████████▓   98.68 %
+CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
