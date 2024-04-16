@@ -13,7 +13,7 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 **Happy to share my knowledge with the community and teammates 🗣**
 
 - 🖌 &nbsp;Able to do UI/UX stuff
-- 📚 &nbsp;Currently learning: &nbsp;![Cloudflare](https://img.shields.io/badge/-Cloudflare-0a0a0a?&logo=cloudflare)&nbsp;![Solidity](https://img.shields.io/badge/-Cloudflare-0a0a0a?&logo=solidity)&nbsp;
+- 📚 &nbsp;Currently learning: &nbsp;![Cloudflare](https://img.shields.io/badge/-Cloudflare-0a0a0a?&logo=cloudflare)&nbsp;![Solidity](https://img.shields.io/badge/-Solidity-0a0a0a?&logo=solidity)&nbsp;
 
 <details>
 <summary>Extra information</summary>
