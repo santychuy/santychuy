@@ -22,12 +22,18 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 April 2024 - To: 21 April 2024
+From: 21 April 2024 - To: 28 April 2024
 
-JavaScript   2 hrs 12 mins   ███████████████████████▒░   93.41 %
-Other        7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-Astro        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+JavaScript    3 hrs 48 mins   ███████████▓░░░░░░░░░░░░░   46.02 %
+TypeScript    2 hrs 13 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.01 %
+Astro         1 hr 37 mins    █████░░░░░░░░░░░░░░░░░░░░   19.71 %
+JSON          18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Other         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+SQL           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Markdown      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Git Config    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+CSS           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+HTML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
