@@ -22,16 +22,10 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2024 - To: 12 May 2024
+From: 12 May 2024 - To: 19 May 2024
 
-YAML         1 hr 42 mins    ████████████▒░░░░░░░░░░░░   49.21 %
-JavaScript   1 hr 7 mins     ████████░░░░░░░░░░░░░░░░░   32.31 %
-Markdown     18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
-Docker       16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
-Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+TypeScript   2 mins          █████████████▓░░░░░░░░░░░   54.43 %
+Astro        2 mins          ███████████▒░░░░░░░░░░░░░   45.57 %
 ```
 
 <!--END_SECTION:waka-->
