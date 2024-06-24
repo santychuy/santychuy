@@ -22,18 +22,18 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 June 2024 - To: 16 June 2024
+From: 16 June 2024 - To: 23 June 2024
 
-TypeScript    9 hrs 28 mins   ████████████████▓░░░░░░░░   67.03 %
-JavaScript    2 hrs 17 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
-Astro         1 hr 23 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
-JSON          24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-Markdown      13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-Other         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-CSS           6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Git Config    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-TOML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+TypeScript    11 hrs 19 mins  ██████████████████████░░░   87.74 %
+JSON          33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+Markdown      18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+CSS           14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Docker        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+TSConfig      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+HTML          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Astro         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Bash          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Other         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
