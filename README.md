@@ -22,15 +22,18 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 July 2024 - To: 21 July 2024
+From: 21 July 2024 - To: 28 July 2024
 
-TypeScript   1 hr 57 mins    █████████████░░░░░░░░░░░░   52.13 %
-Markdown     1 hr 2 mins     ███████░░░░░░░░░░░░░░░░░░   27.65 %
-JavaScript   28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-JSON         14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Astro         5 hrs 54 mins   ██████████████▒░░░░░░░░░░   57.21 %
+TypeScript    3 hrs 41 mins   █████████░░░░░░░░░░░░░░░░   35.81 %
+JSON          19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+CSS           12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Svelte        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+JavaScript    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Markdown      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+TSConfig      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
