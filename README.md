@@ -13,7 +13,7 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 **Happy to share my knowledge with the community and teammates 🗣**
 
 - 🖌 &nbsp;Able to do UI/UX stuff
-- 📚 &nbsp;Currently learning: &nbsp;![Swift](https://img.shields.io/badge/-Swift-0a0a0a?&logo=swift)&nbsp;
+- 📚 &nbsp;Currently learning: &nbsp;![Swift](https://img.shields.io/badge/-Swift-0a0a0a?&logo=swift)&nbsp;![Figma](https://img.shields.io/badge/-Figma-0a0a0a?&logo=figma)&nbsp;![SQLite](https://img.shields.io/badge/-SQLite-0a0a0a?&logo=sqlite)&nbsp;![Python](https://img.shields.io/badge/-Python-0a0a0a?&logo=python)&nbsp;
 
 <details>
 <summary>Extra information</summary>
