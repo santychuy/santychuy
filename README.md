@@ -22,14 +22,18 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2024 - To: 25 August 2024
+From: 25 August 2024 - To: 01 September 2024
 
-TypeScript    9 hrs 20 mins   ███████████████████████▓░   94.50 %
-Astro         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-JSON          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-CSS           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript   10 hrs 52 mins  ███████████████▒░░░░░░░░░   61.22 %
+JavaScript   5 hrs 25 mins   ███████▓░░░░░░░░░░░░░░░░░   30.51 %
+JSON         41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+Other        25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+TSConfig     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+YAML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Bash         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+SSH Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
