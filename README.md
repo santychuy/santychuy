@@ -22,18 +22,18 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2024 - To: 01 September 2024
+From: 01 September 2024 - To: 08 September 2024
 
-TypeScript   10 hrs 52 mins  ███████████████▒░░░░░░░░░   61.22 %
-JavaScript   5 hrs 25 mins   ███████▓░░░░░░░░░░░░░░░░░   30.51 %
-JSON         41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-Other        25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-TSConfig     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-YAML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Bash         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-SSH Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript   9 hrs 44 mins   ████████████▒░░░░░░░░░░░░   48.77 %
+TypeScript   7 hrs 17 mins   █████████░░░░░░░░░░░░░░░░   36.48 %
+Other        1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+JSON         1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+Bash         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+TSConfig     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Markdown     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
