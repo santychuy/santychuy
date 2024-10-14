@@ -22,12 +22,17 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2024 - To: 06 October 2024
+From: 06 October 2024 - To: 13 October 2024
 
-TypeScript   17 hrs 58 mins  ████████████████████████▒   96.68 %
-YAML         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+TypeScript    15 hrs 3 mins   ███████████████████████▓░   95.13 %
+Markdown      18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+JSON          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Other         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Image (svg)   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+YAML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Python        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+CSS           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+CSV           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
