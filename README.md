@@ -7,13 +7,12 @@
 
 ### About me
 
-I'm a passionate Web Developer with expertise in both Frontend and Backend realms, though my heart truly beats for Frontend development 🖌️.
+As a web developer with a passion for crafting intuitive and visually stunning experiences, I'm constantly on the lookout for innovative ways to push the boundaries of what's possible. With a focus on frontend development, I've honed my skills in building responsive, accessible, and user-friendly interfaces that captivate and engage.
 I'm on a perpetual journey of learning, constantly integrating newfound knowledge into my current workflow to enhance user experiences.
 
 **Happy to share my knowledge with the community and teammates 🗣**
 
-- 🖌 &nbsp;Able to do UI/UX stuff
-- 📚 &nbsp;Currently learning: &nbsp;![Swift](https://img.shields.io/badge/-Swift-0a0a0a?&logo=swift)&nbsp;![Figma](https://img.shields.io/badge/-Figma-0a0a0a?&logo=figma)&nbsp;![SQLite](https://img.shields.io/badge/-SQLite-0a0a0a?&logo=sqlite)&nbsp;![Python](https://img.shields.io/badge/-Python-0a0a0a?&logo=python)&nbsp;
+- 📚 &nbsp;Currently learning: &nbsp;![Figma](https://img.shields.io/badge/-Figma-0a0a0a?&logo=figma)&nbsp;![LangChain](https://img.shields.io/badge/-LangChain-0a0a0a?&logo=langchain)&nbsp;
 
 <details>
 <summary>Extra information</summary>
