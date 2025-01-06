@@ -18,14 +18,10 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2024 - To: 29 December 2024
+From: 29 December 2024 - To: 05 January 2025
 
-TypeScript   4 hrs 46 mins   ██████████████████████▓░░   90.92 %
-JSON         16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-Python       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+TypeScript   21 mins         █████████████▓░░░░░░░░░░░   54.80 %
+JSON         17 mins         ███████████▒░░░░░░░░░░░░░   45.20 %
 ```
 
 <!--END_SECTION:waka-->
