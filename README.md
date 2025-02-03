@@ -18,17 +18,14 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 January 2025 - To: 26 January 2025
+From: 26 January 2025 - To: 02 February 2025
 
-TypeScript    6 hrs 21 mins   ████████████████░░░░░░░░░   64.20 %
-TOML          2 hrs 32 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.63 %
-Other         41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
-CSS           10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-JSON          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-Astro         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Image (svg)   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-Markdown      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-JavaScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript   7 hrs 6 mins    ███████████████████████▓░   94.61 %
+Other        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
