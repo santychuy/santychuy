@@ -18,14 +18,17 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 January 2025 - To: 02 February 2025
+From: 02 February 2025 - To: 09 February 2025
 
-TypeScript   7 hrs 6 mins    ███████████████████████▓░   94.61 %
-Other        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript    2 hrs 18 mins   ███████████████████▒░░░░░   77.36 %
+JSON          20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
+Markdown      11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+Other         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+JavaScript    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Docker        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+YAML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+TSConfig      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
