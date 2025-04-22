@@ -1,10 +1,5 @@
 <h1>Nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-<table align="right" width="130" height="100%">
- <tr><td><h4>🔎 &nbsp; Find me at</h4></td></tr>
- <tr><td><a href="https://www.linkedin.com/in/santiagocarrascocampa/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0a0a0a?&logo=linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/santiagocarrascocampa/" align="right" height="24"></a></td></tr>
-</table>
-
 ### About me
 
 As a web developer with a passion for crafting intuitive and visually stunning experiences, I'm constantly on the lookout for innovative ways to push the boundaries of what's possible. With a focus on frontend development, I've honed my skills in building responsive, accessible, and user-friendly interfaces that captivate and engage.
