@@ -7,7 +7,7 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 
 **Happy to share my knowledge with the community and teammates 🗣**
 
-- 📚 &nbsp;Currently learning: &nbsp;![Figma](https://img.shields.io/badge/-Figma-0a0a0a?&logo=figma)&nbsp;![Python](https://img.shields.io/badge/-Python-0a0a0a?&logo=python)&nbsp;![LangChain](https://img.shields.io/badge/-LangChain-0a0a0a?&logo=langchain)&nbsp;
+- 📚 &nbsp;Currently learning: &nbsp;![Figma](https://img.shields.io/badge/-Figma-0a0a0a?&logo=figma)&nbsp;![Python](https://img.shields.io/badge/-Python-0a0a0a?&logo=python)&nbsp;![LangChain](https://img.shields.io/badge/-LangChain-0a0a0a?&logo=langchain)&nbsp;![Redis](https://img.shields.io/badge/-Redis-0a0a0a?&logo=redis)&nbsp;
 
 ### 🕓&nbsp;This week I spent my time on:
 <!--START_SECTION:waka-->
