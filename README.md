@@ -13,14 +13,18 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 April 2025 - To: 04 May 2025
+From: 04 May 2025 - To: 11 May 2025
 
-Python       10 hrs 2 mins   ███████████████████▒░░░░░   76.72 %
-TypeScript   1 hr 23 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
-Bash         1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-Astro        26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-Text         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Python       6 hrs 9 mins    ████████████████▒░░░░░░░░   65.59 %
+TypeScript   2 hrs 20 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.92 %
+Text         31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+Bash         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
