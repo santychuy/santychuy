@@ -13,13 +13,13 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2025 - To: 08 June 2025
+From: 08 June 2025 - To: 15 June 2025
 
-YAML         24 mins         ███████████▓░░░░░░░░░░░░░   46.12 %
-TypeScript   21 mins         ██████████▒░░░░░░░░░░░░░░   40.77 %
-JSON         6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+CSS          1 hr 1 min      ██████████▒░░░░░░░░░░░░░░   41.52 %
+JSON         47 mins         ████████░░░░░░░░░░░░░░░░░   31.64 %
+HTML         24 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
+JavaScript   15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
