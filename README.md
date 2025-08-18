@@ -13,16 +13,15 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2025 - To: 10 August 2025
+From: 10 August 2025 - To: 17 August 2025
 
-TypeScript   11 hrs 38 mins  █████████████████████▒░░░   85.00 %
-JSON         1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
-Markdown     31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-CSS          23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript   11 hrs 48 mins  █████████████████████▒░░░   85.88 %
+JSON         50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+CSS          33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Bash         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+TSConfig     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
