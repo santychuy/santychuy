@@ -13,14 +13,14 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2025 - To: 08 November 2025
+From: 09 November 2025 - To: 16 November 2025
 
-TypeScript   1 hr 16 mins    ████████████▓░░░░░░░░░░░░   50.95 %
-Astro        45 mins         ███████▓░░░░░░░░░░░░░░░░░   30.52 %
-CSS          13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-Markdown     8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-Other        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Astro        5 hrs 10 mins   ████████████████████░░░░░   80.52 %
+TypeScript   40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
+CSS          19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+YAML         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
