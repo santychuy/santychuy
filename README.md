@@ -7,7 +7,7 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 
 **Happy to share my knowledge with the community and teammates 🗣**
 
-- 📚 &nbsp;Currently learning: &nbsp;![Figma](https://img.shields.io/badge/-Figma-0a0a0a?&logo=figma)&nbsp;![Python](https://img.shields.io/badge/-Python-0a0a0a?&logo=python)&nbsp;![Swift](https://img.shields.io/badge/-Swift-0a0a0a?&logo=swift)&nbsp;![Claude Code](https://img.shields.io/badge/-Claude%20Code-0a0a0a?&logo=claude)&nbsp;
+- 📚 &nbsp;Current stack & learning: &nbsp;![Figma](https://img.shields.io/badge/-Figma-0a0a0a?&logo=figma)&nbsp;![TanStack Start](https://img.shields.io/badge/-TanStack%20Start-0a0a0a?&logo=tanstack)&nbsp;![Expo](https://img.shields.io/badge/-Expo-0a0a0a?&logo=expo)&nbsp;![Opencode](https://img.shields.io/badge/-Opencode-0a0a0a?&logo=opencode)&nbsp;
 
 ### 🕓&nbsp;This week I spent my time on:
 <!--START_SECTION:waka-->
@@ -66,6 +66,7 @@ CSS          0 secs          ░░░░░░░░░░░░░░░░░
 ![Firebase](https://img.shields.io/badge/-Firebase-0a0a0a?&logo=Firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0a0a0a?&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0a0a0a?&logo=postgresql)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-0a0a0a?&logo=claude)
 
 </details>
 
