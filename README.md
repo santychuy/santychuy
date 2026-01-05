@@ -13,9 +13,11 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2025 - To: 28 December 2025
+From: 28 December 2025 - To: 04 January 2026
 
-Markdown   0 secs          █████████████████████████   100.00 %
+TypeScript   3 hrs 19 mins   ██████████████████████░░░   88.27 %
+Markdown     19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
+JSON         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
 ```
 
 <!--END_SECTION:waka-->
