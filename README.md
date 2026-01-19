@@ -13,12 +13,17 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2026 - To: 11 January 2026
+From: 11 January 2026 - To: 18 January 2026
 
-TypeScript   2 hrs 13 mins   ████████████████████░░░░░   79.49 %
-Markdown     33 mins         █████░░░░░░░░░░░░░░░░░░░░   19.88 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Markdown     1 hr 8 mins     ██████████░░░░░░░░░░░░░░░   40.37 %
+TypeScript   1 hr 4 mins     █████████▓░░░░░░░░░░░░░░░   38.07 %
+Bash         17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
+JSON         11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
+TSConfig     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Gherkin      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
