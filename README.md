@@ -13,17 +13,13 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2026 - To: 18 January 2026
+From: 18 January 2026 - To: 25 January 2026
 
-Markdown     1 hr 8 mins     ██████████░░░░░░░░░░░░░░░   40.37 %
-TypeScript   1 hr 4 mins     █████████▓░░░░░░░░░░░░░░░   38.07 %
-Bash         17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-JSON         11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
-TSConfig     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-Gherkin      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TypeScript   2 hrs 12 mins   ████████████████▓░░░░░░░░   67.31 %
+Bash         33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.06 %
+Other        20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
+JSON         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+Charmci      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
