@@ -13,13 +13,18 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 January 2026 - To: 25 January 2026
+From: 25 January 2026 - To: 01 February 2026
 
-TypeScript   2 hrs 12 mins   ████████████████▓░░░░░░░░   67.31 %
-Bash         33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.06 %
-Other        20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
-JSON         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-Charmci      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+YAML         3 hrs 42 mins   ██████████░░░░░░░░░░░░░░░   40.53 %
+Terraform    1 hr 39 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.17 %
+TypeScript   1 hr 16 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
+JSON         1 hr 3 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+Other        53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
+HCL          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Markdown     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Docker       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
