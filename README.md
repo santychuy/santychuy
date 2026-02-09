@@ -13,18 +13,18 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2026 - To: 01 February 2026
+From: 01 February 2026 - To: 08 February 2026
 
-YAML         3 hrs 42 mins   ██████████░░░░░░░░░░░░░░░   40.53 %
-Terraform    1 hr 39 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.17 %
-TypeScript   1 hr 16 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
-JSON         1 hr 3 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
-Other        53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
-HCL          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Markdown     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-Docker       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+TypeScript   1 hr 59 mins    ████████████████▓░░░░░░░░   66.47 %
+JSON         29 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
+Other        20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
+YAML         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Terraform    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+HCL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
