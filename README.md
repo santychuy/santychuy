@@ -13,18 +13,18 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 March 2026 - To: 15 March 2026
+From: 15 March 2026 - To: 22 March 2026
 
-Python       1 hr 43 mins          ███████████▒░░░░░░░░░░░░░   44.88 %
-JSON         28 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
-YAML         16 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
-TypeScript   16 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-JavaScript   16 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
-Markdown     15 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
-Other        13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
-Astro        12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-Text         4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-nvmrc        2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+TypeScript    1 hr 32 mins          ████████▓░░░░░░░░░░░░░░░░   34.63 %
+Markdown      1 hr 10 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.23 %
+Astro         41 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
+YAML          23 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
+JavaScript    16 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+JSON          13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Text          8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+Swift         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+CSS           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Image (svg)   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
