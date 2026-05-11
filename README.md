@@ -7,7 +7,7 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 
 **Happy to share my knowledge with the community and teammates 🗣**
 
-- 📚 &nbsp;Current stack & learning: &nbsp;![Figma](https://img.shields.io/badge/-Figma-0a0a0a?&logo=figma)&nbsp;![TanStack Start](https://img.shields.io/badge/-TanStack%20Start-0a0a0a?&logo=tanstack)&nbsp;![Expo](https://img.shields.io/badge/-Expo-0a0a0a?&logo=expo)&nbsp;![Opencode](https://img.shields.io/badge/-Opencode-0a0a0a?&logo=opencode)&nbsp;
+- 📚 &nbsp;Current stack & learning: &nbsp;![Expo](https://img.shields.io/badge/-Expo-0a0a0a?&logo=expo)&nbsp;![Opencode](https://img.shields.io/badge/-Opencode-0a0a0a?&logo=opencode)&nbsp;
 
 ### 🕓&nbsp;This week I spent my time on:
 <!--START_SECTION:waka-->
