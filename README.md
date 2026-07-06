@@ -13,16 +13,18 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 June 2026 - To: 28 June 2026
+From: 28 June 2026 - To: 05 July 2026
 
-TypeScript    3 hrs 27 mins         █████████████░░░░░░░░░░░░   52.17 %
-Markdown      2 hrs 17 mins         ████████▓░░░░░░░░░░░░░░░░   34.71 %
-JSON          27 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-Image (png)   11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-Other         8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-SQL           5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-Bash          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-TSConfig      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript   2 hrs 45 mins         ███████████████▒░░░░░░░░░   61.99 %
+JSON         1 hr 4 mins           ██████░░░░░░░░░░░░░░░░░░░   24.25 %
+Markdown     16 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+CSS          6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+TOML         3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Swift        3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Other        2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+TSConfig     1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Terraform    1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+JavaScript   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
