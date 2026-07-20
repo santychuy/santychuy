@@ -13,18 +13,18 @@ I'm on a perpetual journey of learning, constantly integrating newfound knowledg
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 July 2026 - To: 12 July 2026
+From: 12 July 2026 - To: 19 July 2026
 
-TypeScript    4 hrs 55 mins         █████████░░░░░░░░░░░░░░░░   35.94 %
-Markdown      4 hrs 45 mins         ████████▓░░░░░░░░░░░░░░░░   34.69 %
-JSON          1 hr 20 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
-YAML          52 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
-Image (png)   49 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-Other         29 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-Git Config    19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-HTML          7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-JavaScript    1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Git           1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+TypeScript           14 hrs 6 mins         ████████████▒░░░░░░░░░░░░   49.81 %
+Markdown             8 hrs 26 mins         ███████▒░░░░░░░░░░░░░░░░░   29.80 %
+JSON                 1 hr 55 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+Other                1 hr 1 min            █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+TOML                 55 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+Image (png)          40 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+YAML                 21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Git Config           16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+JavaScript           9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+SQL                  9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
